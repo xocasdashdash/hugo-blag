@@ -1,0 +1,18 @@
+baseURL = "https://xocas.me/"
+languageCode = "es-es"
+title = "This is my blag"
+theme = "hugo-journal"
+
+[Author]
+name = "Joaquín Fernández Campo"
+
+[params.work]
+jobTitle = "Systems Engineer"
+company = "-"
+companyUrl = "https://xocas.me/"
+
+[params]
+description = "A new year resolution story."
+githubUsername = "xocasdashdash"
+twitterUsername = "xocas__"
+tagline = "A collection of thoughts. Beware this blog is full of cookies, procede at your own risk. C6H12O6 + 6O2 -> 6CO2 + 6H2O"
